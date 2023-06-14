@@ -4,5 +4,5 @@
 
 Hey there 👋
 
-I’m Yan, a junior IOS developer, creative coder. I make my mission to make the world easier.
+I’m Ian, a junior IOS developer, creative coder. I make my mission to make the world easier.
 
