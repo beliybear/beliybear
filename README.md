@@ -1,4 +1,4 @@
-[![Yan's GitHub Banner](./assets/Component 2.png)](https://socprofile.com/beliy.bear)
+[![Yan's GitHub Banner](./assets/Component.png)](https://socprofile.com/beliy.bear)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/beliybear)
 [![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/beliybear)
 
