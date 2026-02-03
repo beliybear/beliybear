@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I'm' Ian. 
+I'm Ian. 
 iOS developer focused on production-quality applications, performance, and long-term maintainability.
 
 I work primarily with UIKit and modern iOS APIs, building and supporting apps used by real users under real constraints. I have hands-on experience with large production applications published on the App Store, including full release cycles, post-release support, and production bug fixing.
